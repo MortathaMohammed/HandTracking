@@ -1,4 +1,4 @@
-```
+
 # Hand Tracking and Gesture Recognition
 
 This Python script uses the MediaPipe library to track hand movements and recognize gestures using a webcam or camera as input. It provides real-time feedback on finger positions and can recognize various hand gestures.
@@ -16,7 +16,6 @@ You can install these libraries using pip:
 
 ```bash
 pip install opencv-python numpy mediapipe
-```
 
 ## Installation
 
