@@ -63,8 +63,4 @@ You can customize the script by modifying the gesture recognition logic and appe
 ## Acknowledgments
 
 This project is built upon the MediaPipe library, which provides hand tracking and drawing utilities. We would like to express our gratitude to the developers of MediaPipe for their contributions to the field of computer vision.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
