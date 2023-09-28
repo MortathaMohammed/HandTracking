@@ -68,5 +68,3 @@ This project is built upon the MediaPipe library, which provides hand tracking a
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-Please replace `"https://github.com/your-username/hand-tracking.git"` in the installation section with the actual URL of your project's GitHub repository. Additionally, make sure to include your project's license file (e.g., `LICENSE`) in the project directory if you have one.
