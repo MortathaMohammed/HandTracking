@@ -16,6 +16,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install opencv-python numpy mediapipe
+```
 
 ## Installation
 
